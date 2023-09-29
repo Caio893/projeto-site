@@ -9,6 +9,10 @@ body {
 }
 
 
+img.lado{right: auto;
+
+}
+
 main {
     background-color: white;
     width:  500px;
